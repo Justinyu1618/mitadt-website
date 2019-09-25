@@ -1,0 +1,317 @@
+/* =============================================================================
+   INTRO SECTION
+   ========================================================================== */
+
+#intro-section {
+    position: relative;
+}
+
+.show-load {
+    opacity: 1;
+    -webkit-transition: opacity 1s;
+    transition: opacity 1s;
+}
+
+.hide-load {
+    display: none !important;
+}
+
+.player-container {
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+}
+
+#placeholder-cover {
+    position: fixed;
+    z-index: -1;
+    width: 100vw;
+    height: 100vh;
+    left: 0;
+    top: 0;
+    background-image: url('../assets/covers/placeholder.jpg');
+    background-size: cover;
+    background-position: center bottom;
+}
+
+#player {
+    position: fixed;
+    z-index: -1;
+}
+
+#player-overlay {
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-image: radial-gradient(ellipse 110% 100% at 50% 15%, rgba(0,0,0,0.50) 20%, rgba(0,0,0,0.55) 35%, #000 90%);
+}
+
+/* INTRO CONTROL PANEL */
+.intro-panel {
+    position: absolute;
+    top: 50px;
+    right: 50px;
+    background: rgba(0,0,0,0.20);
+    border: 1px solid rgba(255,255,255,0.50);
+    border-radius: 2px;
+}
+
+.intro-panel span {
+    color:white;   
+    font-weight: 400;
+}
+
+.intro-panel a {
+    text-decoration: none;
+}
+
+.panel-section {
+    display: inline-block;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+
+.panel-section {
+    border-right: 1px solid rgba(255,255,255,0.50);
+}
+.panel-section:last-child {
+    border-right: 0;
+}
+
+.panel-section span {
+    padding: 12px 15px;
+    opacity: 0.75;
+}
+
+.panel-section span:hover {
+    opacity: 1;
+}
+
+.panel-section a {
+    font-weight: 300;
+    letter-spacing: 1.78px;
+    text-transform: uppercase;
+}
+
+.panel-controls span:first-child {
+    padding-right: 8px;
+}
+
+/* MIT ASIAN DANCE TEAM */
+#intro-section h1 {
+    font-family: Oswald, Helvetica, arial, sans-serif;
+    font-size: 77px;
+    color: #FFFFFF;
+    line-height: 85px;
+    text-transform: uppercase;
+    font-weight: 500;
+    position: absolute;
+    top: 110px;
+    right: 50px;
+    text-align: right;
+}
+
+/* loader */
+.sk-circle {
+    margin: 0 auto;
+    width: 40px;
+    height: 40px;
+    position: relative;
+    top: calc(50vh - 40px);
+}
+.sk-circle .sk-child {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+.sk-circle .sk-child:before {
+    content: '';
+    display: block;
+    margin: 0 auto;
+    width: 15%;
+    height: 15%;
+    background-color: #ccc;
+    border-radius: 100%;
+    -webkit-animation: sk-circleBounceDelay 1.2s infinite ease-in-out both;
+            animation: sk-circleBounceDelay 1.2s infinite ease-in-out both;
+}
+.sk-circle .sk-circle2 {
+    -webkit-transform: rotate(30deg);
+        -ms-transform: rotate(30deg);
+            transform: rotate(30deg); }
+.sk-circle .sk-circle3 {
+    -webkit-transform: rotate(60deg);
+        -ms-transform: rotate(60deg);
+            transform: rotate(60deg); }
+.sk-circle .sk-circle4 {
+    -webkit-transform: rotate(90deg);
+        -ms-transform: rotate(90deg);
+            transform: rotate(90deg); }
+.sk-circle .sk-circle5 {
+    -webkit-transform: rotate(120deg);
+        -ms-transform: rotate(120deg);
+            transform: rotate(120deg); }
+.sk-circle .sk-circle6 {
+    -webkit-transform: rotate(150deg);
+        -ms-transform: rotate(150deg);
+            transform: rotate(150deg); }
+.sk-circle .sk-circle7 {
+    -webkit-transform: rotate(180deg);
+        -ms-transform: rotate(180deg);
+            transform: rotate(180deg); }
+.sk-circle .sk-circle8 {
+    -webkit-transform: rotate(210deg);
+        -ms-transform: rotate(210deg);
+            transform: rotate(210deg); }
+.sk-circle .sk-circle9 {
+    -webkit-transform: rotate(240deg);
+        -ms-transform: rotate(240deg);
+            transform: rotate(240deg); }
+.sk-circle .sk-circle10 {
+    -webkit-transform: rotate(270deg);
+        -ms-transform: rotate(270deg);
+            transform: rotate(270deg); }
+.sk-circle .sk-circle11 {
+    -webkit-transform: rotate(300deg);
+        -ms-transform: rotate(300deg);
+            transform: rotate(300deg); }
+.sk-circle .sk-circle12 {
+    -webkit-transform: rotate(330deg);
+        -ms-transform: rotate(330deg);
+            transform: rotate(330deg); }
+.sk-circle .sk-circle2:before {
+    -webkit-animation-delay: -1.1s;
+            animation-delay: -1.1s; }
+.sk-circle .sk-circle3:before {
+    -webkit-animation-delay: -1s;
+            animation-delay: -1s; }
+.sk-circle .sk-circle4:before {
+    -webkit-animation-delay: -0.9s;
+            animation-delay: -0.9s; }
+.sk-circle .sk-circle5:before {
+    -webkit-animation-delay: -0.8s;
+            animation-delay: -0.8s; }
+.sk-circle .sk-circle6:before {
+    -webkit-animation-delay: -0.7s;
+            animation-delay: -0.7s; }
+.sk-circle .sk-circle7:before {
+    -webkit-animation-delay: -0.6s;
+            animation-delay: -0.6s; }
+.sk-circle .sk-circle8:before {
+    -webkit-animation-delay: -0.5s;
+            animation-delay: -0.5s; }
+.sk-circle .sk-circle9:before {
+    -webkit-animation-delay: -0.4s;
+            animation-delay: -0.4s; }
+.sk-circle .sk-circle10:before {
+    -webkit-animation-delay: -0.3s;
+            animation-delay: -0.3s; }
+.sk-circle .sk-circle11:before {
+    -webkit-animation-delay: -0.2s;
+            animation-delay: -0.2s; }
+.sk-circle .sk-circle12:before {
+    -webkit-animation-delay: -0.1s;
+            animation-delay: -0.1s; }
+  
+@-webkit-keyframes sk-circleBounceDelay {
+    0%, 80%, 100% {
+      -webkit-transform: scale(0);
+              transform: scale(0);
+    } 40% {
+      -webkit-transform: scale(1);
+              transform: scale(1);
+    }
+}
+  
+@keyframes sk-circleBounceDelay {
+    0%, 80%, 100% {
+      -webkit-transform: scale(0);
+              transform: scale(0);
+    } 40% {
+      -webkit-transform: scale(1);
+              transform: scale(1);
+    }
+}
+
+/* Medium devices (tablets, less than 992px) */
+@media (max-width: 991px) {
+    #intro-section h1 {
+        top: 100px;
+        font-size: 60px;
+        line-height: 70px;
+    }
+}
+
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575px) {
+    .intro-panel {
+        right: 20px;
+    }
+    #intro-section h1 {
+        right: 20px;
+        font-size: 55px;
+        line-height: 65px;
+    }
+}
+
+/* =============================================================================
+   REST OF THE CONTENT
+   ========================================================================== */
+
+#bathing-image {
+    background-image: linear-gradient(-180deg, #000000 0%, rgba(0,0,0,0.50) 30%, rgba(0,0,0,0.50) 65%, #000000 100%), url('../assets/bathing.jpg');
+    padding-top: 58.936%; /* workaround (img-height / img-width * container-width) = (1207 / 2048 * 100) */
+    margin-top: -350px;
+}
+
+#mly-image {
+    background-image: linear-gradient(-180deg, #000000 0%, rgba(0,0,0,0.50) 30%, rgba(0,0,0,0.50) 65%, #000000 100%), url('../assets/mly.jpg');
+    padding-top: 59.94%; /* workaround (img-height / img-width * container-width) = (1019 / 1700 * 100) */
+    margin-top: -240px;
+}
+
+#endless-image {
+    background-image: linear-gradient(-180deg, #000000 0%, rgba(0,0,0,0.30) 15%), url('../assets/endless.jpg');
+    padding-top: 66.748%; /* workaround (img-height / img-width * container-width) = (1367 / 2048 * 100) */
+    margin-top: -100px;
+}
+
+/* Medium devices (tablets, less than 992px) */
+@media (max-width: 991px) {
+    #bathing-image {
+        margin-top: -250px;
+    }
+    #mly-image {
+        margin-top: -150px;
+    }
+    #endless-image {
+        margin-top: -85px;
+    }
+}
+
+/* Small devices (landscape phones, less than 768px) */
+@media (max-width: 767px) {
+    #bathing-image {
+        margin-top: -210px;
+    }
+    #mly-image {
+        margin-top: -110px;
+    }
+}
+
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575px) {
+    #bathing-image {
+        margin-top: -100px;
+    }
+    #mly-image {
+        margin-top: -80px;
+    }
+}
+
+

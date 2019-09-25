@@ -1,0 +1,105 @@
+/* =============================================================================
+   FOUNDATION
+   ========================================================================== */
+
+/* Jayden Seric's Foundation */
+html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0;font:16px/1 sans-serif;-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:antialiased}h1,h2,h3,h4,p,blockquote,figure,ol,ul{margin:0;padding:0}main,li{display:block}h1,h2,h3,h4{font-size:inherit}strong{font-weight:700}a,button{color:inherit;-webkit-transition:.3s;transition:.3s}a{text-decoration:none}button{overflow:visible;border:0;font:inherit;-webkit-font-smoothing:inherit;letter-spacing:inherit;background:none;cursor:pointer}::-moz-focus-inner{padding:0;border:0}:focus{outline:0}img{max-width:100%;height:auto;border:0}
+
+/* My Foundation */
+a{margin:0;padding:0;font-size:100%;vertical-align:baseline;background:transparent;text-decoration:none}
+li{list-style:none}
+* {box-sizing: border-box}
+
+/* Background */
+html {
+  width:100%;
+  height:100%;
+}
+
+body {
+  font-family:'Source Sans Pro', Helvetica, Arial, sans-serif;  
+}
+
+/* =============================================================================
+   GENERAL
+   ========================================================================== */
+
+body {
+    z-index: -2;
+    background-color: #000;
+}
+
+a {
+    color: #009bff;
+    font-weight: 500;
+    text-decoration: underline;
+}
+
+/* =============================================================================
+   SECTION FORMATTING
+   ========================================================================== */
+
+section:not(#intro-section) {
+    color:white;
+    width: 100%;
+    text-align:center;
+    color: white;
+    padding-top:90px;
+    padding-bottom:50px;
+    background-color: #000;
+}
+
+.section-container {
+    width: 700px;
+    margin: 0 auto;
+}
+
+.section-title {
+    display: inline-block;
+    font-size:54px;
+    margin-bottom: 40px;
+    text-transform:uppercase;
+    letter-spacing: 5px;
+    font-family: Oswald, Helvetica, arial, sans-serif;
+    font-weight: 500;
+}
+
+section p {
+    text-align: left;
+    font-weight: 300;
+    margin-bottom: 20px;
+    font-size: 20px;
+    line-height: 1.35em;
+}
+
+.section-image {
+    background-size: contain;
+    height: 0;
+    background-repeat: no-repeat; 
+}
+
+/* Small devices (landscape phones, less than 768px) */
+@media (max-width: 767px) {
+  .section-container {
+      width: 500px;
+  }
+}
+
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575px) {
+  section:not(#intro-section) {
+      padding-top:30px;
+      padding-bottom:50px;
+  }
+  .section-container {
+      width: 290px;
+  }
+  .section-title {
+      font-size:45px;
+      margin-bottom: 30px;
+  }
+  section p {
+      margin-bottom: 20px;
+      font-size: 18px;
+  }
+}

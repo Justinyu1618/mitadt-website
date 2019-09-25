@@ -1,0 +1,151 @@
+/* =============================================================================
+   MEMBERS PAGE TOP
+   ========================================================================== */
+
+#subpage-title-section {
+    background-image: url('../assets/letters-red.png');
+    background-repeat: no-repeat;
+    background-position: center 30px;
+    background-size: 650px;
+}
+
+#subpage-title-section h1 {
+    font-family: Oswald, Helvetica, arial, sans-serif;
+    font-size: 77px;
+    color: #FFFFFF;
+    line-height: 85px;
+    text-transform: uppercase;
+    font-weight: 500;
+    text-align: center;
+}
+
+#subpage-title-section .nav {
+    display: flex;
+    width: 370px;
+    margin: 0 auto;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+#subpage-title-section .nav a {
+    text-decoration: none;
+    font-size: 22px;
+    text-transform: uppercase;
+    font-weight: 100;
+    color: #c11208;
+}
+
+/* Small devices (landscape phones, less than 768px) */
+@media (max-width: 767px) {
+    #subpage-title-section {
+        background-size: 500px;
+    }
+    
+}
+
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575px) {
+    #subpage-title-section {
+        background-size: 340px;
+    }
+    
+    #subpage-title-section h1 {
+        font-size: 55px;
+        line-height: 60px;
+        padding-top: 50px;
+    }
+    #subpage-title-section .nav {
+        width: 280px;
+    }
+    #subpage-title-section .nav a {
+        font-size: 19px;
+    }
+}
+
+/* =============================================================================
+   PROFILES
+   ========================================================================== */
+
+#exec, #choreographers {
+    padding-top: 30px !important;
+}
+
+.person {
+    margin-bottom: 40px;
+}
+
+.person img {
+    width: 150px;
+    margin-right: 30px;
+    vertical-align: top;
+}
+
+.person .info {
+    width: calc(100% - 180px);
+    display: inline-block;
+}
+
+.person p {
+    margin-bottom: 0;
+}
+
+.person .title {
+    text-transform: uppercase;
+    font-weight: 400;
+    color: #c11208;
+}
+
+.person .name {
+    font-size: 40px;
+    font-weight: 400;
+    margin-bottom: 5px;
+}
+
+#red-flowers-image {
+    background-image: linear-gradient(-180deg, #000000 0%, rgba(0,0,0,0.50) 30%, rgba(0,0,0,0.50) 65%, #000000 100%), url('../assets/red-flowers.jpg');
+    padding-top: 66.650%; /* workaround (img-height / img-width * container-width) = (1365 / 2048 * 100) */
+    margin-top: -150px;
+}
+
+.mobile {
+    display: none;
+}
+
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575px) {
+    .section-title {
+        font-size: 35px;
+        letter-spacing: 2px;
+        margin-bottom: 30px;
+    }
+    .person img {
+        width: 100px;
+        margin-right: 20px;
+    }
+    .person .title {
+        font-size: 15px;
+    }
+    .person .info {
+        width: calc(100% - 120px);
+        display: inline-block;
+    }
+    .person .name {
+        font-size: 25px;
+        margin-bottom: 2px;
+    }
+    .person .fun {
+        margin-top: 10px;
+    }
+    .mobile {
+        display: block;
+    }
+    .desktop {
+        display: none;
+    }
+    #exec {
+        padding-bottom:0 !important;
+    }
+    #red-flowers-image {
+        margin-top: -100px;
+    }
+}
