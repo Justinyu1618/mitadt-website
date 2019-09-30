@@ -102,7 +102,7 @@ var choreographers = [
     }, {
         "title": "Run Like Crazy",
         "name": "Brice Wang",
-        "year": "Class of 2018",
+        "year": "Class of 2020",
         "fun": "just wondering is there a character limit for my descri",
         "image": "brice.png"
     }, {
@@ -126,7 +126,7 @@ var choreographers = [
     }, {
         "title": "Victory",
         "name": "Jessica Yin",
-        "year": "Class of 2019",
+        "year": "Class of 2021",
         "fun": "I like instant ramen more than actual ramen. I also do wushu but I’m not the one who screams.",
         "image": "jessicayin.HEIC"
     }, {
