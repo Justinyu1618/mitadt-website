@@ -1,200 +1,222 @@
 var exec = [
     {
         "title": "Captain",
-        "name": "Kedi Hu",
-        "year": "Class of 2020",
-        "fun": "I am not fun :(",
-        "image": "kedi.png"
-    }, {
-        "title": "Captain",
-        "name": "Ginny Sun",
-        "year": "Class of 2020",
-        "fun": "Just ate a hot pocket",
-        "image": "ginny.jpg"
-    }, {
-        "title": "Director of Public Relations",
-        "name": "Cindy Fiercé Luo",
+        "name": "Cindy Luo",
         "year": "Class of 2021",
-        "fun": "i'm ADT's manager-nim",
+        "fun": "i have big mom energy",
         "image": "cindy_exec.jpg"
     }, {
-        "title": "Director of Internal Relations",
+        "title": "Captain",
         "name": "Erica Chiu",
         "year": "Class of 2021",
-        "fun": "i make rly good truffles",
+        "fun": "I still make truffles, so ask me if you want any.",
         "image": "erica.JPG"
+    }, {
+        "title": "Director of Public Relations",
+        "name": "Joy Feng",
+        "year": "Class of 2022",
+        "fun": "im baby",
+        "image": "joy.jpg"
+    }, {
+        "title": "Director of Internal Relations",
+        "name": "Jeremy Ma",
+        "year": "Class of 2021",
+        "fun": "I like nutella",
+        "image": "jeremy.jpg"
     }, {
         "title": "Director of Finance",
         "name": "Joanna Lin",
         "year": "Class of 2022",
-        "fun": "Hi I'm Joanna a '22 course 7 in New House from Cali and I love pandas! Send me receipts but also dog pictures :)",
+        "fun": "Hi, I'm Joanna, a sophomore in courses 7 and 21G! I love helping the ADT community because it's been such a welcoming place for me. Make sure to watch out for some ADTea this semester :')",
         "image": "joannalin.jpg"
     }, {
         "title": "Director of Marketing",
-        "name": "Kristy Chang",
-        "year": "Class of 2022",
-        "fun": "owo",
-        "image": "kristy.jpg"
+        "name": "Mulan Jiang",
+        "year": "Class of 2023",
+        "fun": "i would put something but i'm chai",
+        "image": "mulan.JPG"
     }, {
         "title": "Director of Marketing",
-        "name": "Jacqueline Chen",
-        "year": "Class of 2021",
-        "fun": "Night Owl or Early Bird? I’m not sure, but I live in studio on a Wednesday night.",
-        "image": "jackie.jpg"
-    }, {
-        "title": "Technical Director",
-        "name": "Shiyu (Kelly) Chen",
+        "name": "Ivy Wang",
         "year": "Class of 2022",
-        "fun": "lmk if you wanna get boba or hot pot together",
-        "image": "kelly.JPG"
+        "fun": "did someone say spicy ramen 👀",
+        "image": "ivy.jpg"
     }, {
         "title": "Technical Director",
         "name": "Justin Yu",
         "year": "Class of 2022",
-        "fun": "jello is life",
+        "fun": "a sub is not a sandwich but boba is soup",
         "image": "justin.jpg"
     }, {
-        "title": "Cover Coordinator",
-        "name": "Sarah Wu",
-        "year": "Class of 2020",
-        "fun": "eat sleep breathe boba",
-        "image": "sarah.png"
+        "title": "Technical Director",
+        "name": "John Lin",
+        "year": "Class of 2021",
+        "fun": "i lift things up and put them down",
+        "image": "johnlin.jpg"
     }, {
         "title": "Cover Coordinator",
-        "name": "Charleen Wang",
-        "year": "Class of 2020",
-        "fun": "uwu",
-        "image": "charleen.jpg"
-    }
+        "name": "Kristy Chang",
+        "year": "Class of 2022",
+        "fun": "<owo>",
+        "image": "kristy.jpg"
+    }, 
 ];
 
 var choreographers = [
     {
-        "title": "Head Choreographer, Blue Moon Dally",
+        "title": "Head Choreographer, Get It Snapping",
         "name": "Sophia Luo",
         "year": "Class of 2020",
-        "fun": "boba is my passion",
+        "fun": "This is my 8th semester in ADT!",
         "image": "sophia.jpg"
     }, {
-        "title": "Head Choreographer, Ain't No Time to Love Me",
+        "title": "Ain't No Time to Love Me",
         "name": "Charleen Wang",
         "year": "Class of 2020",
         "fun": "uwu",
         "image": "charleen.jpg"
     }, {
-        "title": "Waiting For You",
+        "title": "Traditional Choreographer, Chess",
         "name": "Kedi Hu",
         "year": "Class of 2020",
         "fun": "I am not fun :(",
         "image": "kedi.png"
     }, {
-        "title": "LONELY",
+        "title": "lowercase f",
         "name": "Xiqing Wang",
         "year": "Class of 2021",
-        "fun": "i lov dance and fuwud eom",
+        "fun": ";0",
         "image": "xiq.jpg"
     }, {
-        "title": "Rubber Band",
+        "title": "Happy Ending",
         "name": "Jessica Yen",
         "year": "Class of 2021",
-        "fun": "I can imitate a cricket sound!",
-        "image": "jyen.png"
+        "fun": "Shower Thoughts: How many Jessicas are in ADT???",
+        "image": "jyen.jpg"
     }, {
-        "title": "Run Like Crazy",
+        "title": "Jopping",
         "name": "Brice Wang",
         "year": "Class of 2020",
         "fun": "just wondering is there a character limit for my descri",
         "image": "brice.png"
-    }, {
-        "title": "Beautiful Rain",
+    }, 
+    // {
+    //     "title": "Jopping",
+    //     "name": "Lawrence Li",
+    //     "year": "Class of 2020",
+    //     "fun": "",
+    //     "image": ""
+    // }, 
+    {
+        "title": "[A.D.T.]O.Y.",
         "name": "Wendy Yin",
         "year": "Class of 2022",
-        "fun": "cancelled ❌",
+        "fun": "my special talent is frowning",
         "image": "wendy.jpg"
     }, {
-        "title": "Yearning",
+        "title": "How Can I Love The Heartbreak",
         "name": "Jennifer Wang",
         "year": "Class of 2021",
-        "fun": "always hungry",
+        "fun": "yeet",
         "image": "jenn.JPG"
     }, {
-        "title": "Chasing the Tide, In the Rain",
+        "title": "Drifting Clouds",
         "name": "Michelle Tang",
         "year": "Class of 2021",
         "fun": "spacepotatoing around",
         "image": "micht.jpg"
     }, {
-        "title": "Victory",
+        "title": "Valkerie",
         "name": "Jessica Yin",
         "year": "Class of 2021",
         "fun": "I like instant ramen more than actual ramen. I also do wushu but I’m not the one who screams.",
         "image": "jessicayin.HEIC"
     }, {
-        "title": "Victory",
+        "title": "Valkerie",
         "name": "Lucy Lee",
         "year": "Class of 2021",
-        "fun": "I like actual ramen more than instant ramen. I also do wushu and I'm the one who screams.",
+        "fun": "Hallo :)",
         "image": "Lucy.JPG"
     }, {
-        "title": "The Last Goodbye",
-        "name": "Vivian Zhong",
-        "year": "Class of 2019",
-        "fun": "I graduated course 20 this June — come talk to me about anything related to biology/plants/sustainability related! Currently stressing over grad school apps and obsessing over The Expanse, Lucifer, and figure skating. ",
-        "image": "vivian.JPG"
-    }, {
-        "title": "Blackpink Medley",
+        "title": "lowercase f",
         "name": "Sarah Acolatse",
         "year": "Class of 2022",
-        "fun": "My bias group is EXO’s Lay",
+        "fun": "I stan exo :)",
         "image": "sarahacolatse.jpg"
     }, {
-        "title": "Beautiful Rain",
-        "name": "Gary Nguyen",
-        "year": "Class of 2022",
-        "fun": "Helloo~ NCT 🏀 and BTS 🔥 fan! That's really all you need to know about me. 😄 ",
-        "image": "gary.jpg"
-    }, {
-        "title": "Transcendence, Horizon",
+        "title": "Silent Sky",
         "name": "Ginny Sun",
         "year": "Class of 2020",
-        "fun": "Just ate a hot pocket",
+        "fun": "i like hot pockets",
         "image": "ginny.jpg"
     }, {
-        "title": "Ugly Beauty",
+        "title": "Lion Queen",
         "name": "Cindy Fiercé Luo",
         "year": "Class of 2021",
-        "fun": "C(indy)POP! hmu for dance shows and workshops in boston <3",
+        "fun": "Roar 🦁👑👸🏻hmu for dance shows and workshops in boston <3 also (c)pop!!",
         "image": "cindy_choreog.jpg"
     }, {
-        "title": "I am YOU",
+        "title": "[A.D.T.]O.Y.",
         "name": "Kristy Chang",
         "year": "Class of 2022",
-        "fun": "owo",
+        "fun": "<owo>",
         "image": "kristy.jpg"
     }, {
-        "title": "Ain't No Time to Love Me",
-        "name": "Priscilla Wong",
-        "year": "Class of 2020",
-        "fun": "just tryna have a good time!",
-        "image": "priscilla.png"
-    }, {
-        "title": "Lonely",
+        "title": "Cereal Dreams",
         "name": "Jenny Choi",
         "year": "Class of 2021",
-        "fun": "I'm a potato :')",
+        "fun": "Hallo I'm Jenny (aka a smol potato)! I love dancing, sleeping, drinking coffee, and eating good food : )",
         "image": "jenny.jpg"
     }, {
-        "title": "Crazy In Love",
+        "title": "DDD (Dance Dance Dance)",
         "name": "Erica Chiu",
         "year": "Class of 2021",
-        "fun": "i make rly good truffles",
+        "fun": "I still make truffles, so ask me if you want any.",
         "image": "erica.JPG"
     }, {
-        "title": "Horizon, In the Rain",
+        "title": "Jasmine Blossom",
         "name": "Joy Feng",
         "year": "Class of 2022",
-        "fun": "some things I get excited about: hot cheetos, sumikko gurashi, vineyard vines, eyeshadow palettes, doggo memes. \nsome things I don't get excited about: maseeh dining, the walk to e51, almond milk, ballpoint pens.",
-        "image": "joy.JPG"
+        "fun": "i'm baby",
+        "image": "joy.jpg"
+    }, {
+        "title": "Violeta",
+        "name": "Kelly Chen",
+        "year": "Class of 2022",
+        "fun": "anyone want boba?",
+        "image": "kelly.JPG"
+    }, 
+    // {
+    //     "title": "Violeta",
+    //     "name": "Emily Huang",
+    //     "year": "Class of 2022",
+    //     "fun": "",
+    //     "image": ""
+    // }, 
+    {
+        "title": "The Song of Graduation",
+        "name": "Sophia Yuqin Duan",
+        "year": "Class of 2022",
+        "fun": "Fruit is my life owo",
+        "image": "sophiaduan.jpg"
+    }, {
+        "title": "She Steps",
+        "name": "Jacqueline Chen",
+        "year": "Class of 2021",
+        "fun": "Hi! I'm a third year architecture student. Come talk to me about design!",
+        "image": "jackie.jpg"
+    }, {
+        "title": "Jasmine Blossom",
+        "name": "Karyn Real",
+        "year": "Class of 2023",
+        "fun": "i love doggos",
+        "image": "karyn.JPG"
+    }, {
+        "title": "Head Workshop Choreographer",
+        "name": "Gary Nguyen",
+        "year": "Class of 2022",
+        "fun": "boba is soup",
+        "image": "gary.jpg"
     }
 ];
 

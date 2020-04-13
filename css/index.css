@@ -57,6 +57,8 @@
     background: rgba(0,0,0,0.20);
     border: 1px solid rgba(255,255,255,0.50);
     border-radius: 2px;
+    transition: background 0.3s;
+    transition-delay:0.1s
 }
 
 .intro-panel span {
@@ -95,6 +97,44 @@
     letter-spacing: 1.78px;
     text-transform: uppercase;
 }
+
+#watch {
+    font-weight: 300;
+    letter-spacing: 1.78px;
+    text-transform: uppercase;
+}
+
+.watch-dropdown {
+    display: block;
+    visibility: hidden;
+    opacity: 0;
+    position: absolute;
+    text-align: center;
+    z-index: 1;
+    background: rgba(0,0,0,0.80);
+    border: 1px solid rgba(255,255,255,0.50);
+    bottom: -70px;
+    left: -1px;
+    transition: visibility 0s, opacity 0.3s;
+    transition-delay:0.1s
+}
+
+.watch-dropdown a {
+    display: block;
+    font-weight: 300;
+    letter-spacing: 1.78px;
+    text-transform: uppercase;
+    color:white; 
+    margin: 12px;
+
+}
+
+#watch:hover .watch-dropdown {
+    visibility: visible; 
+    opacity: 1;
+}
+
+.intro-panel:hover {background: rgba(0,0,0,0.8);}
 
 .panel-controls span:first-child {
     padding-right: 8px;
