@@ -59,6 +59,12 @@ var exec = [
         "year": "Class of 2022",
         "fun": "&lt;owo&gt;",
         "image": "kristy.jpg"
+    }, {
+        "title": "Cover Coordinator",
+        "name": "Sarah Wu",
+        "year": "Class of 2020",
+        "fun": "eat sleep breathe boba",
+        "image": "sarah.png"
     }, 
 ];
 
