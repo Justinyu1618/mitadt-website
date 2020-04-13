@@ -4,6 +4,7 @@
 
 #intro-section {
     position: relative;
+    overflow: hidden;
 }
 
 .show-load {
