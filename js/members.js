@@ -55,16 +55,16 @@ var exec = [
         "image": "johnlin.jpg"
     }, {
         "title": "Cover Coordinator",
-        "name": "Kristy Chang",
-        "year": "Class of 2022",
-        "fun": "&lt;owo&gt;",
-        "image": "kristy.jpg"
-    }, {
-        "title": "Cover Coordinator",
         "name": "Sarah Wu",
         "year": "Class of 2020",
         "fun": "eat sleep breathe boba",
         "image": "sarah.png"
+    }, {
+        "title": "Cover Coordinator",
+        "name": "Kristy Chang",
+        "year": "Class of 2022",
+        "fun": "&lt;owo&gt;",
+        "image": "kristy.jpg"
     }, 
 ];
 
@@ -148,13 +148,13 @@ var choreographers = [
         "fun": "just wondering is there a character limit for my descri",
         "image": "brice.png"
     }, 
-    // {
-    //     "title": "Jopping",
-    //     "name": "Lawrence Li",
-    //     "year": "Class of 2020",
-    //     "fun": "",
-    //     "image": ""
-    // }, 
+    {
+        "title": "Jopping",
+        "name": "Lawrence Li",
+        "year": "Class of 2020",
+        "fun": "I'm currently a senior and first-time choreographer for ADT. I'm also involved in MIT Movementality (MMT). In my free time, aside from dancing, I like reading, doing cool pen spinning tricks, and playing video games!",
+        "image": "lawrence.jpg"
+    }, 
     {
         "title": "Lion Queen",
         "name": "Cindy Fiercé Luo",
