@@ -20,7 +20,7 @@ var exec = [
     }, {
         "title": "Director of Internal Relations",
         "name": "Jeremy Ma",
-        "year": "Class of 2021",
+        "year": "Class of 2022",
         "fun": "I like nutella",
         "image": "jeremy.jpg"
     }, {
@@ -57,7 +57,7 @@ var exec = [
         "title": "Cover Coordinator",
         "name": "Sarah Wu",
         "year": "Class of 2020",
-        "fun": "eat sleep breathe boba",
+        "fun": "🤗",
         "image": "sarah.png"
     }, {
         "title": "Cover Coordinator",
@@ -192,13 +192,13 @@ var choreographers = [
         "fun": "Fruit is my life owo",
         "image": "sophiaduan.jpg"
     }, {
-        "title": "Valkerie",
+        "title": "Valkyrie",
         "name": "Jessica Yin",
         "year": "Class of 2021",
         "fun": "I like instant ramen more than actual ramen. I also do wushu but I’m not the one who screams.",
         "image": "jessicayin.HEIC"
     }, {
-        "title": "Valkerie",
+        "title": "Valkyrie",
         "name": "Lucy Lee",
         "year": "Class of 2021",
         "fun": "Hallo :)",
