@@ -209,14 +209,13 @@ var choreographers = [
         "year": "Class of 2022",
         "fun": "anyone want boba?",
         "image": "kelly.JPG"
+    }, {
+        "title": "Violeta",
+        "name": "Emily Huang",
+        "year": "Class of 2022",
+        "fun": "✌️😗✌️",
+        "image": "emily.jpg"
     }, 
-    // {
-    //     "title": "Violeta",
-    //     "name": "Emily Huang",
-    //     "year": "Class of 2022",
-    //     "fun": "",
-    //     "image": ""
-    // }, 
     {
         "title": "Head Workshop Choreographer",
         "name": "Gary Nguyen",
