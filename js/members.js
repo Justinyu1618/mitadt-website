@@ -70,6 +70,12 @@ var exec = [
 
 var choreographers = [
     {
+        "title": "Head Choreographer, Blue Flame",
+        "name": "Charleen Wang",
+        "year": "Class of 2020",
+        "fun": "uwu",
+        "image": "charleen.png"
+    }, {
         "title": "Head Choreographer, Get It Snapping",
         "name": "Sophia Luo",
         "year": "Class of 2020",
@@ -93,12 +99,6 @@ var choreographers = [
         "year": "Class of 2022",
         "fun": "&lt;owo&gt;",
         "image": "kristy.jpg"
-    }, {
-        "title": "Blue Flame",
-        "name": "Charleen Wang",
-        "year": "Class of 2020",
-        "fun": "uwu",
-        "image": "charleen.png"
     }, {
         "title": "Cereal Dreams",
         "name": "Jenny Choi",
