@@ -70,31 +70,31 @@ var exec = [
 
 var choreographers = [
     {
-        "title": "Head Choreographer",
+        "title": "Head Choreographer, Salty",
         "name": "Jessica Yen",
         "year": "Class of 2021",
         "fun": "Shower Thoughts: How many Jessicas are in ADT???",
         "image": "jyen.jpg"
     }, {
-        "title": "Head Choreographer",
+        "title": "Head Choreographer, Rainy Bamboo Forest",
         "name": "Jennifer Wang",
         "year": "Class of 2021",
         "fun": "yeet",
         "image": "jennifer.jpg"
     }, {
-        "title": "Choreographer",
+        "title": "Far From Home & Eternally Yours",
         "name": "Michelle Tang",
         "year": "Class of 2021",
         "fun": "spacepotatoing around",
         "image": "michelle.jpg"
     }, {
-        "title": "Choreographer",
+        "title": "UR Candy",
         "name": "Jenny Choi",
         "year": "Class of 2021",
         "fun": "Hallo I'm Jenny (aka a smol potato)! I love dancing, sleeping, drinking coffee, and eating good food : )",
         "image": "jenny.jpg"
     }, {
-        "title": "Choreographer",
+        "title": "Salty & Complete",
         "name": "Erica Chiu",
         "year": "Class of 2021",
         "fun": "I still make truffles, so ask me if you want any.",
@@ -106,91 +106,91 @@ var choreographers = [
         "fun": "Roar 🦁👑👸🏻hmu for dance shows and workshops in boston <3 also (c)pop!!",
         "image": "cindy_choreog.jpg"
     }, {
-        "title": "Choreographer",
+        "title": "F",
         "name": "Xiqing Wang",
         "year": "Class of 2021",
         "fun": "i love zuko more than i fear u",
         "image": "xiqing.jpg"
     }, {
-        "title": "Choreographer, God's Menu",
+        "title": "God's Menu",
         "name": "Jessica Yin",
         "year": "Class of 2021",
         "fun": "ye",
         "image": "jessicayin.jpg"
     }, {
-        "title": "Girl Choreographer, Play",
+        "title": "Play",
         "name": "Lucy Lee",
         "year": "Class of 2021",
         "fun": "Hallo :)",
         "image": "lucy.jpg"
     }, {
-        "title": "Choreographer, Switch",
+        "title": "Switch",
         "name": "Wendy Yin",
         "year": "Class of 2022",
         "fun": "perpetually upsetti spaghetti",
         "image": "wendy.jpg"
     }, {
-        "title": "Choreographer",
+        "title": "Summer Breeze",
         "name": "Kristy Chang",
         "year": "Class of 2022",
         "fun": "&lt;owo&gt;",
         "image": "kristy.jpg"
     }, {
-        "title": "Choreographer",
+        "title": "butterflies & violet nights",
         "name": "Claire Cheng",
         "year": "Class of 2022",
         "fun": "pls subscribe to marniescastle on yt thx <3",
         "image": "claire.jpg"
     }, {
-        "title": "Guy Hip Hop Choreographer, Complete",
+        "title": "Complete",
         "name": "Jeremy Ma",
         "year": "Class of 2022",
         "fun": "*I still like Nutella",
         "image": "jeremy.jpg"
     }, {
-        "title": "Choreographer",
+        "title": "Play",
         "name": "Emily Han",
         "year": "Class of 2022",
         "fun": "talk to me about: orange juice, tik tok, youtube drama, photoshopping ppl, starbucks, kpop ofc ;)",
         "image": "emilyhan.jpg"
     }, {
-        "title": "Choreographer",
+        "title": "F",
         "name": "Sarah Acolatse",
         "year": "Class of 2022",
         "fun": "I stan exo :)",
         "image": "sarah.jpg"
     }, {
-        "title": "Choreographer",
+        "title": "butterflies & violet nights",
         "name": "Emily Huang",
         "year": "Class of 2022",
         "fun": "✌️😗✌️",
         "image": "emilyhuang.jpg"
     }, {
-        "title": "Choreographer",
+        "title": "Can't Ask You To Stay",
         "name": "Joy Feng",
         "year": "Class of 2022",
         "fun": "i'm baby",
         "image": "joy.jpg"
     }, {
-        "title": "Choreographer",
+        "title": "🦁 👾",
         "name": "Cindy Wang",
         "year": "Class of 2023",
         "fun": "roar 🦁👑👸🏻 but I'm not mom cindy",
         "image": "cindywang_choreog.jpg"
     }, {
-        "title": "Choreographer, Eternally Yours / 永世相伴",
+        "title": "Eternally Yours",
         "name": "Jovita Li",
         "year": "Class of 2023",
         "fun": "stretchy",
         "image": "jovita.jpg"
     }, {
-        "title": "Choreographer, God's Menu",
+        "title": "God's Menu",
         "name": "Helen Lu",
         "year": "Class of 2023",
         "fun": "I like to bake cinnamon rolls",
         "image": "helen.jpg"
     }, {
-        "title": "Choreographer",
+        "title": "Moving On",
         "name": "Karyn Real",
         "year": "Class of 2023",
         "fun": "i love doggos",
