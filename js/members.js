@@ -82,6 +82,12 @@ var choreographers = [
         "fun": "yeet",
         "image": "jennifer.jpg"
     }, {
+        "title": "Knock",
+        "name": "Brice Wang",
+        "year": "Class of 2020",
+        "fun": "just wondering is there a character limit for my descri",
+        "image": "brice.png"
+    }, {
         "title": "Far From Home & Eternally Yours",
         "name": "Michelle Tang",
         "year": "Class of 2021",
