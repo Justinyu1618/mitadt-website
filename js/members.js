@@ -116,7 +116,7 @@ var choreographers = [
         "name": "Claire Cheng",
         "year": "Class of 2022",
         "fun": "pls subscribe to marniescastle on yt thx <3",
-        "image": "claire.jpg"
+        "image": "claire.png"
     }, {
         "title": "♡ L o v e r ♡",
         "name": "Emily Han",
@@ -158,7 +158,7 @@ var choreographers = [
         "name": "Sarah Acolatse",
         "year": "Class of 2022",
         "fun": "I like exo :)",
-        "image": "sarah.jpg"
+        "image": "sarahacolaste.jpg"
     }, {
         "title": "90's Love",
         "name": "Wendy Yin",
