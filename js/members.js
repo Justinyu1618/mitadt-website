@@ -188,19 +188,19 @@ var choreographers = [
         "name": "Janabel Xia",
         "year": "Class of 2024",
         "fun": "a 5 and wOOooOOo and",
-        "image": "jyen.jpg"
+        "image": "janabel.jpg"
     }, {
         "title": "Graceful Angel",
         "name": "Sophia Duan",
         "year": "Graduate Student",
         "fun": "Soft it!",
-        "image": "xiqing.jpg"
+        "image": "sophia.jpg"
     }, {
         "title": "Workshop Choreographer",
         "name": "Jessica Ding",
         "year": "Class of 2023",
         "fun": "jess ding jess dong jess ding dong",
-        "image": "cindy_choreog.jpg"
+        "image": "jess.jpg"
     }, {
         "title": "Workshop Choreographer",
         "name": "Jovita Li",
@@ -212,7 +212,7 @@ var choreographers = [
         "name": "Sarah Wei",
         "year": "Class of 2024",
         "fun": "my only personality trait is being allergic to fruit",
-        "image": "jyen.jpg"
+        "image": "sarahwei.jpg"
 
     }
 ];
