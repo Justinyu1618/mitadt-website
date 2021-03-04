@@ -76,7 +76,7 @@ var exec = [
         "name": "Cindy Luo",
         "year": "Class of 2021",
         "fun": "my babies all grew up so well 🥺",
-        "image": "cindy_exec.jpg"
+        "image": "cindyluo.jpg"
     }, 
 ];
 
