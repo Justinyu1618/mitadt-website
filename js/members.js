@@ -145,7 +145,7 @@ var choreographers = [
         "title": "Bad Idea",
         "name": "Kristy Chang",
         "year": "Class of 2022",
-        "fun": "\\o/",
+        "fun": "o/",
         "image": "kristy.jpg"
     }, {
         "title": "Beneath the Waves",
