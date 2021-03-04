@@ -28,7 +28,7 @@ var exec = [
         "name": "Joanna Lin",
         "year": "Class of 2022",
         "fun": "just a plont missing ADTea with all my heart",
-        "image": "joanna.jpg"
+        "image": "joanna.jpeg"
     }, {
         "title": "Director of Marketing",
         "name": "Mulan Jiang",
@@ -46,7 +46,7 @@ var exec = [
         "name": "Yueyang Fan",
         "year": "Class of 2023",
         "fun": "🙌EDM, DJing, Raving, ILLENIUM stan🙌",
-        "image": "yueyang.jpg"
+        "image": "yueyang.jpeg"
     }, {
         "title": "Technical Director",
         "name": "Jovita Li",
@@ -158,7 +158,7 @@ var choreographers = [
         "name": "Sarah Acolatse",
         "year": "Class of 2022",
         "fun": "I like exo :)",
-        "image": "sarahacolaste.jpg"
+        "image": "sarahacolaste.jpeg"
     }, {
         "title": "90's Love",
         "name": "Wendy Yin",
@@ -182,19 +182,19 @@ var choreographers = [
         "name": "Karyn Real",
         "year": "Class of 2023",
         "fun": "lover of dogs, slave to caffeine, believer in swag 🥶🧊",
-        "image": "karyn.jpg"
+        "image": "karyn.jpeg"
     }, {
         "title": "Swan Geese",
         "name": "Janabel Xia",
         "year": "Class of 2024",
         "fun": "a 5 and wOOooOOo and",
-        "image": "janabel.jpg"
+        "image": "janabel.jpeg"
     }, {
         "title": "Graceful Angel",
         "name": "Sophia Duan",
         "year": "Graduate Student",
         "fun": "Soft it!",
-        "image": "sophia.jpg"
+        "image": "yuqin.mov"
     }, {
         "title": "Workshop Choreographer",
         "name": "Jessica Ding",
