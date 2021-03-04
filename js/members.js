@@ -9,7 +9,7 @@ var exec = [
         "title": "Co-Captain",
         "name": "Kristy Chang",
         "year": "Class of 2022",
-        "fun": "\\o/",
+        "fun": "o/",
         "image": "kristy.jpg"
     }, {
         "title": "Director of Public Relations",
