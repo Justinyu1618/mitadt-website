@@ -9,7 +9,7 @@ var exec = [
         "title": "Co-Captain",
         "name": "Kristy Chang",
         "year": "Class of 2022",
-        "fun": "o/",
+        "fun": "\\o/",
         "image": "kristy.jpg"
     }, {
         "title": "Director of Public Relations",
@@ -28,7 +28,7 @@ var exec = [
         "name": "Joanna Lin",
         "year": "Class of 2022",
         "fun": "just a plont missing ADTea with all my heart",
-        "image": "joanna.jpeg"
+        "image": "joanna.jpg"
     }, {
         "title": "Director of Marketing",
         "name": "Mulan Jiang",
@@ -46,7 +46,7 @@ var exec = [
         "name": "Yueyang Fan",
         "year": "Class of 2023",
         "fun": "🙌EDM, DJing, Raving, ILLENIUM stan🙌",
-        "image": "yueyang.jpeg"
+        "image": "yueyang.jpg"
     }, {
         "title": "Technical Director",
         "name": "Jovita Li",
@@ -64,7 +64,7 @@ var exec = [
         "name": "Emily Huang",
         "year": "Class of 2022",
         "fun": "akali that girl kali go grr kali dont stop kali dont skrrt kali got a job kali go to work",
-        "image": "kristy.jpg"
+        "image": "emilyhuang.jpg"
     }, {
         "title": "Transition Advisor",
         "name": "Erica Chiu",
@@ -86,7 +86,7 @@ var choreographers = [
         "name": "Jessica Yin",
         "year": "Class of 2021",
         "fun": "hii",
-        "image": "jyin.jpg"
+        "image": "jessica.jpg"
     }, {
         "title": "Head Choreographer, The Banquet",
         "name": "Jennifer Wang",
@@ -145,7 +145,7 @@ var choreographers = [
         "title": "Bad Idea",
         "name": "Kristy Chang",
         "year": "Class of 2022",
-        "fun": "o/",
+        "fun": "\\o/",
         "image": "kristy.jpg"
     }, {
         "title": "Beneath the Waves",
@@ -158,7 +158,7 @@ var choreographers = [
         "name": "Sarah Acolatse",
         "year": "Class of 2022",
         "fun": "I like exo :)",
-        "image": "sarahacolaste.jpeg"
+        "image": "sarahacolatse.jpeg"
     }, {
         "title": "90's Love",
         "name": "Wendy Yin",
@@ -182,25 +182,25 @@ var choreographers = [
         "name": "Karyn Real",
         "year": "Class of 2023",
         "fun": "lover of dogs, slave to caffeine, believer in swag 🥶🧊",
-        "image": "karyn.jpeg"
+        "image": "karyn.jpg"
     }, {
         "title": "Swan Geese",
         "name": "Janabel Xia",
         "year": "Class of 2024",
         "fun": "a 5 and wOOooOOo and",
-        "image": "janabel.jpeg"
+        "image": "janabel.jpg"
     }, {
         "title": "Graceful Angel",
         "name": "Sophia Duan",
         "year": "Graduate Student",
         "fun": "Soft it!",
-        "image": "yuqin.mov"
+        "image": "sophiaduan.jpg"
     }, {
         "title": "Workshop Choreographer",
         "name": "Jessica Ding",
         "year": "Class of 2023",
         "fun": "jess ding jess dong jess ding dong",
-        "image": "jess.jpg"
+        "image": "jess.JPG"
     }, {
         "title": "Workshop Choreographer",
         "name": "Jovita Li",
@@ -243,8 +243,3 @@ $(document).ready(function() {
         $('#choreographers .section-container').append(person);
     }
 });
-
-
-
-
-
