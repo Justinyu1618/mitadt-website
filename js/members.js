@@ -188,7 +188,7 @@ var choreographers = [
         "name": "Janabel Xia",
         "year": "Class of 2024",
         "fun": "a 5 and wOOooOOo and",
-        "image": "janabel.jpg"
+        "image": "janabel.jpeg"
     }, {
         "title": "Graceful Angel",
         "name": "Sophia Duan",
