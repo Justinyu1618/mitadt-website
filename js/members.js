@@ -16,7 +16,7 @@ var exec = [
         "name": "Cindy Wang",
         "year": "Class of 2023",
         "fun": "hi there",
-        "image": "cindywant_exec.jpg"
+        "image": "cindywang_exec.jpg"
     }, {
         "title": "Director of Internal Relations",
         "name": "Jeremy Ma",
@@ -130,7 +130,7 @@ var choreographers = [
         "fun": "smiling to hide the aaaaaaaaaaaaaaaaaaaaaaa",
         "image": "carolyn.png"
     }, {
-        "title": "Blooming Day",
+        "title": "Kick It",
         "name": "Krittamate Tiankanon",
         "year": "Class of 2022",
         "fun": "owkayy",
@@ -165,6 +165,12 @@ var choreographers = [
         "year": "Class of 2021",
         "fun": "weeeeeeeeee \\(•◡•)/ ",
         "image": "ellie.jpg"
+    }, {
+        "title": "Wave",
+        "name": "Hanjie Liu",
+        "year": "Class of 2024",
+        "fun": "i have nothing to put here i just needed to submit this portion by tonight (・・；)",
+        "image": "hanjie.jpg"
     }, {
         "title": "Swan Geese",
         "name": "Janabel Xia",
