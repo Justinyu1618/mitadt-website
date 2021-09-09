@@ -76,7 +76,7 @@ var choreographers = [
         "fun": "spacepotatoing around",
         "image": "michelle.jpg"
     }, {
-        "title": "Head Choreog | Fever | Dream Mind",
+        "title": "Head Choreographer | Fever | Dream Mind",
         "name": "Wendy Yin",
         "year": "Class of 2022",
         "fun": "stressed depressed lemon zest",
