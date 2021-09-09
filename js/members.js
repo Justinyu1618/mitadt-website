@@ -1,34 +1,40 @@
 var exec = [
     {
         "title": "Co-Captain",
-        "name": "Joy Feng",
-        "year": "Class of 2022",
-        "fun": "i'm baby",
-        "image": "joy.jpg"
-    }, {
-        "title": "Co-Captain",
         "name": "Kristy Chang",
         "year": "Class of 2022",
         "fun": "\\o/",
         "image": "kristy.jpg"
     }, {
+        "title": "Co-Captain",
+        "name": "Joy Feng",
+        "year": "Class of 2022",
+        "fun": "i'm baby",
+        "image": "joy.jpg"
+    }, {
         "title": "Director of Public Relations",
+        "name": "Cindy Wang",
+        "year": "Class of 2023",
+        "fun": "hi there",
+        "image": "cindywant_exec.jpg"
+    }, {
+        "title": "Director of Internal Relations",
         "name": "Jeremy Ma",
         "year": "Class of 2022",
         "fun": "*I still like Nutella",
         "image": "jeremy.jpg"
     }, {
-        "title": "Director of Internal Relations",
-        "name": "Siyoung Kim",
-        "year": "Class of 2023",
-        "fun": "hi there",
-        "image": "siyoung.jpg"
-    }, {
         "title": "Director of Finance",
-        "name": "Joanna Lin",
+        "name": "Alicia Yang",
+        "year": "Class of 2024",
+        "fun": "doing too many things :')",
+        "image": "alicia.jpg"
+    }, {
+        "title": "Director of Marketing",
+        "name": "Ivy Wang",
         "year": "Class of 2022",
-        "fun": "just a plont missing ADTea with all my heart",
-        "image": "joanna.jpg"
+        "fun": "head empty",
+        "image": "ivy.jpg"
     }, {
         "title": "Director of Marketing",
         "name": "Mulan Jiang",
@@ -36,153 +42,129 @@ var exec = [
         "fun": "hi :D",
         "image": "mulan.jpg"
     }, {
-        "title": "Director of Marketing",
-        "name": "Ivy Wang",
-        "year": "Class of 2022",
-        "fun": "did someone say spicy ramen 👀",
-        "image": "ivy.jpg"
-    }, {
-        "title": "Technical Director",
-        "name": "Yueyang Fan",
-        "year": "Class of 2023",
-        "fun": "🙌EDM, DJing, Raving, ILLENIUM stan🙌",
-        "image": "yueyang.jpg"
-    }, {
         "title": "Technical Director",
         "name": "Jovita Li",
         "year": "Class of 2023",
         "fun": "bendy",
         "image": "jovita.jpg"
     }, {
-        "title": "Cover Coordinator",
-        "name": "Cindy Wang",
-        "year": "Class of 2023",
-        "fun": "potato w/ me",
-        "image": "cindywang_exec.jpg"
+        "title": "Technical Director",
+        "name": "Hanjie Liu",
+        "year": "Class of 2024",
+        "fun": "i have nothing to put here i just needed to submit this portion by tonight (・・；)",
+        "image": "hanjie.jpg"
     }, {
         "title": "Cover Coordinator",
         "name": "Emily Huang",
         "year": "Class of 2022",
-        "fun": "akali that girl kali go grr kali dont stop kali dont skrrt kali got a job kali go to work",
+        "fun": "hxh enjoyer, avril lavigne conspiracy truther",
         "image": "emilyhuang.jpg"
     }, {
-        "title": "Transition Advisor",
-        "name": "Erica Chiu",
-        "year": "Class of 2021",
-        "fun": "I still make truffles, so ask me if you want any.",
-        "image": "erica.jpg"
-    }, {
-        "title": "Transition Advisor",
-        "name": "Cindy Luo",
-        "year": "Class of 2021",
-        "fun": "my babies all grew up so well 🥺",
-        "image": "cindyluo.jpg"
-    }, 
+        "title": "Cover Coordinator",
+        "name": "Chelsea Chen",
+        "year": "Class of 2023",
+        "fun": "the only man i trust is agust d",
+        "image": "chelsea.jpeg"
+    },
 ];
 
 var choreographers = [
     {
-        "title": "Head Choreographer, Just One Dance",
-        "name": "Jessica Yin",
-        "year": "Class of 2021",
-        "fun": "hii",
-        "image": "jessica.jpg"
-    }, {
-        "title": "Head Choreographer, The Banquet",
-        "name": "Jennifer Wang",
-        "year": "Class of 2021",
-        "fun": "yeet",
-        "image": "jennifer.jpg"
-    }, {
-        "title": "Blooming Day",
-        "name": "Jenny Choi",
-        "year": "Class of 2021",
-        "fun": "i'm stresso espresso",
-        "image": "jenny.jpg"
-    }, {
-        "title": "Just One Dance",
-        "name": "Lucy Lee",
-        "year": "Class of 2021",
-        "fun": "Hallo :)",
-        "image": "lucy.jpg"
-    }, {
-        "title": "Mayday",
-        "name": "Carolyn Mei",
-        "year": "Class of 2022",
-        "fun": "smiling to hide the aaaaaaaaaaaaaaaaaaaaaaa",
-        "image": "carolyn.png"
-    }, {
-        "title": "MORE",
-        "name": "Claire Cheng",
-        "year": "Class of 2022",
-        "fun": "pls subscribe to marniescastle on yt thx <3",
-        "image": "claire.png"
-    }, {
-        "title": "♡ L o v e r ♡",
-        "name": "Emily Han",
-        "year": "Class of 2022",
-        "fun": "all i wanna do is drink dunkin in the stud again",
-        "image": "emilyhan.jpg"
-    }, {
-        "title": "lovesick without u",
-        "name": "Emily Huang",
-        "year": "Class of 2022",
-        "fun": "akali that girl kali go grr kali dont stop kali dont skrrt kali got a job kali go to work ",
-        "image": "emilyhuang.jpg"
-    }, {
-        "title": "Wannabe",
-        "name": "Jeremy Ma",
-        "year": "Class of 2022",
-        "fun": "*I still like Nutella",
-        "image": "jeremy.jpg"
-    }, {
-        "title": "Flow",
-        "name": "Joy Feng",
-        "year": "Class of 2022",
-        "fun": "i'm baby",
-        "image": "joy.jpg"
-    }, {
-        "title": "Bad Idea",
-        "name": "Kristy Chang",
-        "year": "Class of 2022",
-        "fun": "\\o/",
-        "image": "kristy.jpg"
-    }, {
-        "title": "Beneath the Waves",
+        "title": "Head Choreographer | Back to You",
         "name": "Michelle Tang",
         "year": "Class of 2022",
         "fun": "spacepotatoing around",
         "image": "michelle.jpg"
     }, {
-        "title": "Mmmh",
-        "name": "Sarah Acolatse",
-        "year": "Class of 2022",
-        "fun": "I like exo :)",
-        "image": "sarahacolatse.jpeg"
-    }, {
-        "title": "90's Love",
+        "title": "Head Choreog | Fever | Dream Mind",
         "name": "Wendy Yin",
         "year": "Class of 2022",
-        "fun": "perpetually upsetti spaghetti",
-        "image": "wendy.jpg"
+        "fun": "stressed depressed lemon zest",
+        "image": "wendy.jpeg"
     }, {
-        "title": "MORE",
-        "name": "Cindy Wang",
+        "title": "Bibi Supremacy",
+        "name": "Sarah Acolatse",
+        "year": "Class of 2022",
+        "fun": "I love exo :)",
+        "image": "sarahacolatse.jpeg"
+    }, {
+        "title": "Fever",
+        "name": "Kristy Chang",
+        "year": "Class of 2022",
+        "fun": "\\o/",
+        "image": "kristy.jpg"
+    }, {
+        "title": "On the Ground",
+        "name": "Claire Cheng",
+        "year": "Class of 2022",
+        "fun": "heyyyy wuts poppin",
+        "image": "claire.png"
+    }, {
+        "title": "Spirit of a Nation",
+        "name": "Joy Feng",
+        "year": "Class of 2022",
+        "fun": "i'm baby",
+        "image": "joy.jpg"
+    }, {
+        "title": "One Last Grand Escape",
+        "name": "Emily Huang",
+        "year": "Class of 2022",
+        "fun": "hxh enjoyer, avril lavigne conspiracy truther",
+        "image": "emilyhuang.jpg"
+    }, {
+        "title": "Alcohol-Free",
+        "name": "Emily Han",
+        "year": "Class of 2022",
+        "fun": "cheese foam is so good",
+        "image": "emilyhan.jpg"
+    }, {
+        "title": "Critical Beauty",
+        "name": "Jeremy Ma",
+        "year": "Class of 2022",
+        "fun": "*I still like Nutella",
+        "image": "jeremy.jpg"
+    }, {
+        "title": "Fear",
+        "name": "Carolyn Mei",
+        "year": "Class of 2022",
+        "fun": "smiling to hide the aaaaaaaaaaaaaaaaaaaaaaa",
+        "image": "carolyn.png"
+    }, {
+        "title": "Blooming Day",
+        "name": "Krittamate Tiankanon",
+        "year": "Class of 2022",
+        "fun": "owkayy",
+        "image": "boom.jpg"
+    }, {
+        "title": "Dream Mind",
+        "name": "Jess Ding",
         "year": "Class of 2023",
-        "fun": "roar 🦁👑👸🏻 but I'm not mom cindy",
-        "image": "cindywang_choreog.jpg"
+        "fun": "jess ding jess dong jess ding dong",
+        "image": "jess.JPG"
     }, {
-        "title": "Home Run",
+        "title": "Fear",
         "name": "Helen Lu",
         "year": "Class of 2023",
         "fun": "live and love hotpot 🥰",
         "image": "helen.jpg"
     }, {
-        "title": "Boundless",
+        "title": "Garden Dreams",
         "name": "Karyn Real",
         "year": "Class of 2023",
-        "fun": "lover of dogs, slave to caffeine, believer in swag 🥶🧊",
-        "image": "karyn.jpg"
+        "fun": "all i do is pet dog and eat chip ",
+        "image": "karyn.jpeg"
+    }, {
+        "title": "Nightmares",
+        "name": "Cindy Wang",
+        "year": "Class of 2023",
+        "fun": "roar 🦁👑👸🏻 but I'm not mom cindy",
+        "image": "cindywang_choreog.jpg"
+    }, {
+        "title": "The South of Colorful Clouds",
+        "name": "Ellie Feng",
+        "year": "Class of 2021",
+        "fun": "weeeeeeeeee \\(•◡•)/ ",
+        "image": "ellie.jpg"
     }, {
         "title": "Swan Geese",
         "name": "Janabel Xia",
@@ -190,31 +172,30 @@ var choreographers = [
         "fun": "a 5 and wOOooOOo and",
         "image": "janabel.jpeg"
     }, {
-        "title": "Graceful Angel",
+        "title": "One Flower, One Sword",
+        "name": "Alicia Yang",
+        "year": "Class of 2024",
+        "fun": "doing too many things :')",
+        "image": "alicia.jpeg"
+    }, {
+        "title": "Spirit of a Nation",
+        "name": "Erica Chiu",
+        "year": "Graduate Student",
+        "fun": "I still make truffles, so ask me if you want any.",
+        "image": "erica.jpg"
+    }, {
+        "title": "Our Song",
         "name": "Sophia Duan",
         "year": "Graduate Student",
         "fun": "Soft it!",
         "image": "sophiaduan.jpg"
     }, {
-        "title": "Workshop Choreographer",
-        "name": "Jessica Ding",
-        "year": "Class of 2023",
-        "fun": "jess ding jess dong jess ding dong",
-        "image": "jess.JPG"
-    }, {
-        "title": "Workshop Choreographer",
-        "name": "Jovita Li",
-        "year": "Class of 2023",
-        "fun": "*tentatively attempts fusion*",
-        "image": "jovita.jpg"
-    }, {
-        "title": "Workshop Choreographer",
-        "name": "Sarah Wei",
-        "year": "Class of 2024",
-        "fun": "my only personality trait is being allergic to fruit",
-        "image": "sarahwei.jpg"
-
-    }
+        "title": "One Flower, One Sword | One Last Grand Escape",
+        "name": "Jennifer Wang",
+        "year": "Graduate Student",
+        "fun": "yeet",
+        "image": "jennifer.jpg"
+    },
 ];
 
 $(document).ready(function() {
