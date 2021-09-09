@@ -172,7 +172,7 @@ var choreographers = [
         "fun": "i have nothing to put here i just needed to submit this portion by tonight (・・；)",
         "image": "hanjie.jpg"
     }, {
-        "title": "Swan Geese",
+        "title": "Beautiful Scenery",
         "name": "Janabel Xia",
         "year": "Class of 2024",
         "fun": "a 5 and wOOooOOo and",
