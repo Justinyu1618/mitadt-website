@@ -162,7 +162,7 @@ var choreographers = [
     }, {
         "title": "The South of Colorful Clouds",
         "name": "Ellie Feng",
-        "year": "Class of 2021",
+        "year": "Class of 2024",
         "fun": "weeeeeeeeee \\(•◡•)/ ",
         "image": "ellie.jpg"
     }, {
